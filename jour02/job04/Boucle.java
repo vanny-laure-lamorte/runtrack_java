@@ -1,4 +1,4 @@
-package jour02.jour04;
+package jour02.job04;
 
 public class Boucle {
     public static void main(String[] args) {
