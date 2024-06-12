@@ -2,7 +2,7 @@ package jour03.job06;
 
 import java.util.Random;
 
-public class Main {
+public class Tableau {
     public static void main(String[] args) {
 
         // Tableau de 10 entiers
