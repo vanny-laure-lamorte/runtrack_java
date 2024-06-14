@@ -5,17 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b3d885c-e865-40ce-a321-460a51838374" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../jour04/job01/ThreadProject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../jour04/job01/ThreadProject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/job02/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/job02/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job03/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job03/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job03/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job03/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job03/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job03/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job03/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job03/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job03/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job03/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job03/src/main/java/com/example/job01/HelloApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job03/src/main/java/com/example/job01/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job03/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../job03/src/main/resources/com/example/job01/hello-view.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
