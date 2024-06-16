@@ -8,6 +8,13 @@
             "type": "java",
             "name": "CalculSomme",
             "request": "launch",
+            "mainClass": "jour04.job07.CalculSomme",
+            "projectName": "runtrack_java_e1f5417e"
+        },
+        {
+            "type": "java",
+            "name": "CalculSomme",
+            "request": "launch",
             "mainClass": "jour04.job06.CalculSomme",
             "projectName": "runtrack_java_e1f5417e"
         },

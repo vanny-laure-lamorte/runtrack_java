@@ -8,7 +8,7 @@ public class CalculSomme {
         
         // Demander à l'utilisateur de saisir la taille du table
         Scanner input = new Scanner(System.in);
-        System.out.print("Saisir la taille du tableau : ");
+        System.out.print("Entrez la taille du tableau: ");
         int size = input.nextInt();
 
 
@@ -16,11 +16,13 @@ public class CalculSomme {
         int[] numbers = new int[size]; 
 
         // Demander à l'utilisateur de saisir les données du tableau  
-        System.out.println("Entrez les éléments du tableau: ");
+        System.out.println("Entrez les éléments du tableau ");
         for (int i = 0; i < size; i++) {
             System.out.print("Element " + (i + 1) + ": ");
             numbers[i] = input.nextInt();
         } 
+
+
         input.close();  
         
         
