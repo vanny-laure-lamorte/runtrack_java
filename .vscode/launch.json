@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumCalculator",
+            "request": "launch",
+            "mainClass": "jour04.job08.SumCalculator",
+            "projectName": "runtrack_java_e1f5417e"
+        },
+        {
+            "type": "java",
             "name": "CalculSomme",
             "request": "launch",
             "mainClass": "jour04.job07.CalculSomme",
